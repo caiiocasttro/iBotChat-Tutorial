@@ -14,6 +14,7 @@
 		C95FC36B2861ED5200D32DFF /* iBotChatUiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95FC36A2861ED5200D32DFF /* iBotChatUiTests.swift */; };
 		C95FC3752861ED5300D32DFF /* iBotChatUiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95FC3742861ED5300D32DFF /* iBotChatUiUITests.swift */; };
 		C95FC3772861ED5300D32DFF /* iBotChatUiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95FC3762861ED5300D32DFF /* iBotChatUiUITestsLaunchTests.swift */; };
+		C95FC3842861F25900D32DFF /* BotResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95FC3832861F25900D32DFF /* BotResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C95FC3702861ED5300D32DFF /* iBotChatUiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iBotChatUiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C95FC3742861ED5300D32DFF /* iBotChatUiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iBotChatUiUITests.swift; sourceTree = "<group>"; };
 		C95FC3762861ED5300D32DFF /* iBotChatUiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iBotChatUiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C95FC3832861F25900D32DFF /* BotResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BotResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				C95FC35B2861ED4700D32DFF /* ContentView.swift */,
 				C95FC35D2861ED5200D32DFF /* Assets.xcassets */,
 				C95FC35F2861ED5200D32DFF /* Preview Content */,
+				C95FC3832861F25900D32DFF /* BotResponse.swift */,
 			);
 			path = iBotChatUi;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				C95FC35C2861ED4700D32DFF /* ContentView.swift in Sources */,
 				C95FC35A2861ED4700D32DFF /* iBotChatUiApp.swift in Sources */,
+				C95FC3842861F25900D32DFF /* BotResponse.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
